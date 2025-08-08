@@ -1,0 +1,11 @@
+# Core dependencies
+pyperclip>=1.8.0
+ttkbootstrap>=1.10.0
+
+# Development dependencies (optional)
+# Uncomment for development:
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=0.991
