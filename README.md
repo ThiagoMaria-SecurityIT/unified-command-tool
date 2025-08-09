@@ -1,5 +1,3 @@
-
-
 # Unified Command & VirtualEnv Tool
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
@@ -79,8 +77,27 @@ sudo apt install xclip
    git clone https://github.com/ThiagoMaria-SecurityIT/unified-command-tool
    cd unified-command-tool
    ```
+2. **Create a virtual environment** (I recommend using Python's built-in venv):
+   ```bash
+   python -m venv venv
+   ```
+   (or `python3 -m venv venv` if you have multiple Python versions)
 
-2. Run the application:
+3. **Activate the virtual environment**:
+   - On Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On macOS/Linux:
+     ```bash
+     source venv/bin/activate
+     ```
+   - If none of the above worked, try a mix of both (if you are using Git Bash in Windows for example)
+     ```bash
+     source venv/Scripts/activate
+     ```
+
+4. Run the application:
    ```bash
    python unified_command_tool.py
    ```
