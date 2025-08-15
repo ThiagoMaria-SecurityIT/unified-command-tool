@@ -3,9 +3,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/yourusername/unified-command-tool)
-[![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/yourusername/unified-command-tool)
+[![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/yourusername/unified-command-tool)  
 
-A comprehensive, unified desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.
+A comprehensive, unified desktop application that combines system command reference, cybersecurity monitoring, and Python virtual environment management in a single, intuitive interface.  
+
+<img width="1599" height="850" alt="image" src="https://github.com/user-attachments/assets/ec388b26-b7d3-404b-882e-dd95bb349066" />    
 
 ## Table of Contents
 - [Features](#features)
@@ -13,6 +15,7 @@ A comprehensive, unified desktop application that combines system command refere
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [AI Transparency](#ai-transparency) 
 - [License](#license)
 
 ## Features
@@ -183,6 +186,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
    ```bash
    pip install -e .
    ```
+
+## AI Transparency  
+This application was developed with AI assistance to generate and refine Python code, specifically designed for Cybersecurity and InfoSec professionals of all skill levels.  
+
+**Important Notes:**  
+- Do not use this application without evaluating security implications for your environment.  
+- Always consult your Security IT department before deployment.  
+
+**AI Models Used:**  
+- [Manus AI](https://manus.ai)  
+- [DeepSeek](https://deepseek.com)    
+
 
 ## License
 
