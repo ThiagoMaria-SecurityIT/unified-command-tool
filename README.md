@@ -215,7 +215,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Thiago Maria - From Brazil to the World 🌎**  
 *Senior Security Information Professional | Passionate Programmer | AI Developer*
 
-With a professional background in security analysis and a deep passion for programming, I created this Github acc to share some knowledge about security information, cybersecurity, Python and AI development practices. Most of my work here focuses on implementing security-first at companies and developer tools while maintaining usability and productivity.
+With a professional background in security analysis and a deep passion for programming, I created this Github acc to share some knowledge about security information, cybersecurity, Python and AI development practices. Most of my work here focuses on implementing security-first at companies while maintaining usability and productivity.
 
 Let's Connect:
 
